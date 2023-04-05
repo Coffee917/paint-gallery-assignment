@@ -72,7 +72,7 @@ p {
 
 /* HEADER SECTION */
 header {
-  background-image: url(../my-version/assets/group-4@2x.png);
+  background-image: url(./assets/group-4@2x.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
